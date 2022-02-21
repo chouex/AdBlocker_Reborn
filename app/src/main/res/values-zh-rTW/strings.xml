@@ -42,6 +42,8 @@
     <string name="settings">設定</string>
     <string name="shortcut_hook">啟動捷徑阻擋</string>
     <string name="shortcut_hook_description">阻擋自動建立的捷徑</string>
+    <string name="splash_hook">啟動啟動畫面廣告視窗模組阻擋</string>
+    <string name="splash_hook_description">阻擋啟動畫面廣告視窗</string>
     <string name="system_apps">啟動系統應用程式保護</string>
     <string name="system_apps_description">不要阻擋系統應用程式（將會覆蓋白名單的設定）</string>
     <string name="translator">翻譯人員</string>
